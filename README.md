@@ -1,11 +1,11 @@
-The Student Attendance Management System is an indispensable tool designed to streamline the process of tracking student attendance within colleges. By offering functionalities for insertion, deletion, and modification of daily attendance data, this application empowers faculty members to effortlessly maintain precise attendance records and monitor absenteeism with just a few clicks. With its user-friendly interface and zero-error approach, this system ensures efficient record-keeping, benefiting administrators, teachers, and students alike.
+The Student Attendance Management System is an indispensable tool designed to streamline the process of tracking student attendance within institutions. By offering functionalities for insertion, deletion, and modification of daily attendance data, this application empowers faculty members to effortlessly maintain precise attendance records and monitor absenteeism with just a few clicks. With its user-friendly interface and zero-error approach, this system ensures efficient record-keeping, benefiting administrators, teachers, and students alike.
 
 
 
 Features -  
 Unique login details for every user  
-Insertion, deletion and modification of student attendance details 
-Viewing of Student Attendance details  
+Insertion, deletion and modification of student attendance details  
+Viewing of Student Attendance details   
 Add new students  
 Add new teachers  
 Change Passwords  
